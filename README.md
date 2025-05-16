@@ -1,1 +1,1 @@
-# GEN
+# Personal Fun Facts Generator
